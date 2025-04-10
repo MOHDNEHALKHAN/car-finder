@@ -20,7 +20,7 @@ export default function Home() {
 
   // Fetch all cars once
   useEffect(() => {
-    fetch('http://localhost:5000/cars')
+    fetch('https://car-finder-4a64.onrender.com/cars')
       .then((res) => res.json())
       .then((data) => {
         setAllCars(data);

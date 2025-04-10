@@ -6,7 +6,7 @@ export default function CarDetail() {
   const [car, setCar] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/cars/${id}`)
+    fetch(`https://car-finder-4a64.onrender.com/cars/${id}`)
       .then(res => res.json())
       .then(data => setCar(data));
   }, [id]);
