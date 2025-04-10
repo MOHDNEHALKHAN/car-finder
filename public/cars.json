@@ -1,0 +1,139 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Camry",
+      "price": 24000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/192443/camry-exterior-right-front-three-quarter-2.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "model": "Accord",
+      "price": 26000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/360x240/Honda/Honda-New-Accord/047.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Tesla",
+      "model": "Model Y",
+      "price": 47000,
+      "fuel": "Electric",
+      "seats": 5,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tesla_Model_Y_1X7A6211.jpg/800px-Tesla_Model_Y_1X7A6211.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "price": 19000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/41138/elantra-exterior-right-front-three-quarter.jpeg?q=80&q=80"
+    },
+    {
+      "id": 5,
+      "brand": "Kia",
+      "model": "Seltos",
+      "price": 21000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/174323/seltos-exterior-right-front-three-quarter.jpeg?isig=0&q=80&q=80"
+    },
+    {
+      "id": 6,
+      "brand": "Ford",
+      "model": "Mustang",
+      "price": 55000,
+      "fuel": "Petrol",
+      "seats": 4,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2025-ford-mustang-60th-anniversary-exterior-66227932bb88e.jpg?crop=0.793xw:1.00xh;0.106xw,0&resize=2048:*"
+    },
+    {
+      "id": 7,
+      "brand": "Chevrolet",
+      "model": "Malibu",
+      "price": 23000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/index/vehicles/2024/cars/malibu/01-images/colorizer/images/2024-malibu-1sp-gnt-colorizer.jpg?imwidth=1200"
+    },
+    {
+      "id": 8,
+      "brand": "BMW",
+      "model": "3 Series",
+      "price": 41000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://www.bmw.in/content/dam/bmw/marketIN/bmw_in/all-models/3-series/gl/2023/navigation.png/jcr:content/renditions/cq5dam.resized.img.585.low.time1673330685738.png"
+    },
+    {
+      "id": 9,
+      "brand": "Mercedes",
+      "model": "C-Class",
+      "price": 42000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/664x374/n/cw/ec/178535/c-class-exterior-right-front-three-quarter.jpeg?isig=0&q=80"
+    },
+    {
+      "id": 10,
+      "brand": "Honda",
+      "model": "Amaze",
+      "price": 43000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/184377/amaze-exterior-right-front-three-quarter-3.jpeg?isig=0&q=80&q=80"
+    },
+    {
+      "id": 11,
+      "brand": "Nissan",
+      "model": "Altima",
+      "price": 24000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://di-uploads-pod27.dealerinspire.com/newtonnissansouth/uploads/2020/11/2021-Nissan-Altima-Model-Left.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "Mazda",
+      "model": "Mazda6",
+      "price": 25000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhlmvCUTXa4vmngnAoZy_ZrQIVxx-RrVJkQ&s"
+    },
+    {
+      "id": 13,
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "price": 27000,
+      "fuel": "Petrol",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/1920x1080/cw/ec/22548/Volkswagen-Passat-Headlamps-135233.jpg?wm=0&q=80&q=80"
+    },
+    {
+      "id": 14,
+      "brand": "Skoda",
+      "model": "Octavia",
+      "price": 22000,
+      "fuel": "Diesel",
+      "seats": 5,
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Octavia/8447/1623323312913/front-left-side-47.jpg"
+    },
+    {
+      "id": 15,
+      "brand": "MG",
+      "model": "ZS EV",
+      "price": 31000,
+      "fuel": "Electric",
+      "seats": 5,
+      "image": "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/110437/zs-ev-exterior-right-front-three-quarter-69.jpeg?isig=0&q=80&q=80"
+    }
+  ]
+}
